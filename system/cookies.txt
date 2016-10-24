@@ -1,0 +1,2 @@
+#LWP-Cookies-1.0
+Set-Cookie3: CGISESSID_m=547265d39274d3a8f29cc50cd209fa99; path="/"; domain=img.jgi.doe.gov; path_spec; discard; version=0

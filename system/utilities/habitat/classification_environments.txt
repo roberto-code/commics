@@ -1,0 +1,136 @@
+2000000000	Aquatic	Freshwaters	Wastewaters	Sludge
+2000000001	Aquatic	Freshwaters	Wastewaters	Sludge
+2001000000	Aquatic	Freshwaters	Wastewaters	Sludge
+2001200000	Aquatic	Freshwaters	Groundwaters	Acid mine, Biofilm, High metal concentration
+2001200001	Terrestrial	Soil	Agricultural	Soil
+2001200002	Aquatic	Saline waters	Other	N/A
+2001200003	Aquatic	Saline waters	Other	N/A
+2001200004	Aquatic	Saline waters	Other	N/A
+2003000006	Other	Aerial	N/A	Air
+2003000007	Other	Aerial	N/A	Air
+2004000001	Host-associated	Oral	N/A	Host, Human oral microflora
+2004002000	Host-associated	Gastrointestinal tract	Human	Human fecal, Host
+2004002001	Host-associated	Gastrointestinal tract	Human	Human fecal, Host
+2004080001	Host-associated	Gastrointestinal tract	Other	Host
+2004175000	Host-associated	Gastrointestinal tract	Other	Host
+2004175001	Aquatic	Saline sediment	N/A	Marine, Deep sea, Sediment
+2004178001	Aquatic	Saline sediment	N/A	Sediment
+2004178002	Aquatic	Saline sediment	N/A	Sediment
+2004178003	Aquatic	Saline sediment	N/A	Sediment
+2004178004	Aquatic	Saline sediment	N/A	Sediment
+2004230000	Host-associated	Gastrointestinal tract	Mouse	Host, Mouse Gut
+2004230001	Host-associated	Gastrointestinal tract	Mouse	Host, Mouse Gut
+2004230002	Host-associated	Gastrointestinal tract	Mouse	Host, Mouse Gut
+2004230003	Host-associated	Gastrointestinal tract	Mouse	Host, Mouse Gut
+2004230004	Host-associated	Gastrointestinal tract	Mouse	Host, Mouse Gut
+2004247000	Aquatic	Saline waters	Other	Hypersaline mats, Mat
+2004247001	Aquatic	Saline waters	Other	Hypersaline mats, Mat
+2004247002	Aquatic	Saline waters	Other	Hypersaline mats, Mat
+2004247003	Aquatic	Saline waters	Other	Hypersaline mats, Mat
+2004247004	Aquatic	Saline waters	Other	Hypersaline mats, Mat
+2004247005	Aquatic	Saline waters	Other	Hypersaline mats, Mat
+2004247006	Aquatic	Saline waters	Other	Hypersaline mats, Mat
+2004247007	Aquatic	Saline waters	Other	Hypersaline mats, Mat
+2004247008	Aquatic	Saline waters	Other	Hypersaline mats, Mat
+2004247009	Aquatic	Saline waters	Other	Hypersaline mats, Mat
+2004247010	Host-associated	Oral	N/A	Host, Human oral microflora
+2005137000	Other	Artificial	Other	N/A
+2005137001	Other	Artificial	Other	N/A
+2005137002	Other	Artificial	Other	N/A
+2005503000	Host-associated	Oral	N/A	Host, Human oral microflora
+2006207000	Aquatic	Freshwater sediment	N/A	Fresh water, Lake, Sediment
+2006207001	Aquatic	Freshwater sediment	N/A	Fresh water, Lake, Sediment
+2006207002	Aquatic	Freshwater sediment	N/A	Fresh water, Lake, Sediment
+2006207003	Aquatic	Freshwater sediment	N/A	Fresh water, Lake, Sediment
+2006207004	Aquatic	Freshwater sediment	N/A	Fresh water, Lake, Sediment
+2006543005	Aquatic	Freshwater sediment	N/A	Fresh water, Lake, Sediment
+2006543007	Aquatic	Freshwaters	Groundwaters	Fresh water, Groundwater
+2007309000	Thermal	Hydrothermal	N/A	Fresh water, Hot spring
+2007309001	Thermal	Hydrothermal	N/A	Fresh water, Hot spring
+2007427000	Aquatic	Freshwaters	Groundwaters	Contaminated well
+2007915000	Aquatic	Freshwaters	Wastewaters	N/A
+2009439000	Thermal	Hydrothermal	N/A	Fresh water
+2009439003	Thermal	Hydrothermal	N/A	Fresh water
+2010170001	Thermal	Hydrothermal	N/A	Fresh water
+2010170002	Thermal	Hydrothermal	N/A	Fresh water
+2010170003	Thermal	Hydrothermal	N/A	Fresh water
+2010170004	Thermal	Hydrothermal	N/A	Hot spring
+2010483000	Aquatic	Freshwaters	Lakes	Limnetic zone
+2010483001	Aquatic	Freshwaters	Lakes	Limnetic zone
+2010483002	Aquatic	Freshwaters	Lakes	Limnetic zone
+2010483003	Aquatic	Freshwaters	Lakes	Limnetic zone
+2010483004	Aquatic	Freshwaters	Lakes	Limnetic zone
+2010483005	Aquatic	Freshwaters	Lakes	Limnetic zone
+2010483006	Aquatic	Freshwaters	Lakes	Limnetic zone
+2010483007	Aquatic	Freshwaters	Lakes	Limnetic zone
+2010549000	Terrestrial	Plants	Rhizosphere	Host
+2012990003	Aquatic	Saline waters	Open waters	N/A
+2013338003	Host-associated	Gastrointestinal tract	Other	Gut
+2013505000	Host-associated	Other tissue	N/A	Venous leg ulcers
+2013505001	Host-associated	Other tissue	N/A	Venous leg ulcers
+2013515000	Thermal	Hydrothermal	N/A	Hot spring
+2013515001	Thermal	Hydrothermal	N/A	Hot spring
+2013515002	Thermal	Hydrothermal	N/A	Hot spring
+2013843002	Aquatic	Freshwaters	Groundwaters	Synthetic mineral medium
+2013843003	Thermal	Hydrothermal	N/A	Hot spring
+2013954000	Thermal	Hydrothermal	N/A	Hot spring
+2013954001	Thermal	Hydrothermal	N/A	Hot spring
+2014031002	Thermal	Hydrothermal	N/A	Hot spring
+2014031003	Thermal	Hydrothermal	N/A	Hot spring
+2014031004	Thermal	Hydrothermal	N/A	Hot spring
+2014031005	Thermal	Hydrothermal	N/A	Hot spring
+2014031006	Thermal	Hydrothermal	N/A	Hot spring
+2014031007	Thermal	Hydrothermal	N/A	Hot spring
+2014613002	Aquatic	Saline waters	Open waters	North Pacific Ocean at depths of 10m to 4000m
+2014613003	Aquatic	Saline waters	Open waters	North Pacific Ocean at depths of 10m to 4000m
+2014642000	Aquatic	Saline waters	Open waters	North Pacific Ocean at depths of 10m to 4000m
+2014642001	Aquatic	Saline waters	Open waters	North Pacific Ocean at depths of 10m to 4000m
+2014642002	Aquatic	Saline waters	Open waters	North Pacific Ocean at depths of 10m to 4000m
+2014642003	Aquatic	Saline waters	Open waters	North Pacific Ocean at depths of 10m to 4000m
+2014642004	Aquatic	Saline waters	Open waters	North Pacific Ocean at depths of 10m to 4000m
+2014730001	Terrestrial	Soil	Other	Chloroethene-contaminated soil
+2015219000	Thermal	Hydrothermal	N/A	Hot spring
+2015219001	Thermal	Hydrothermal	N/A	Hot spring
+2015219002	Thermal	Hydrothermal	N/A	Hot spring
+2015219006	Host-associated	Animal host	N/A	Viriome
+2015391000	Host-associated	Animal host	N/A	Viriome
+2015391001	Thermal	Hydrothermal	N/A	Hot spring
+2016842003	Thermal	Hydrothermal	N/A	Hot spring
+2016842004	Thermal	Hydrothermal	N/A	Hot spring
+2016842005	Thermal	Hydrothermal	N/A	Hot spring
+2016842008	Thermal	Hydrothermal	N/A	Hot spring
+2017108002	Aquatic	Saline sediment	N/A	Marine, Deep sea
+2021593001	Host-associated	Gastrointestinal tract	Other	Gut
+2021593003	Host-associated	Gastrointestinal tract	Other	Trichonympha sp.Gut
+2021593004	Terrestrial	Plants	Rhizosphere	Host
+2029527000	Other	Artificial	Compost	switchgrass compost
+2029527003	Host-associated	Animal host	N/A	Host, Arthropoda
+2029527004	Host-associated	Animal host	N/A	Host, Arthropoda
+2029527005	Host-associated	Animal host	N/A	Host, Arthropoda
+2029527006	Host-associated	Animal host	N/A	Host, Arthropoda
+2029527007	Host-associated	Animal host	N/A	Host, Arthropoda
+2030936003	Aquatic	Freshwaters	Wastewaters	Anammox
+2030936005	Host-associated	Animal host	N/A	Host, Arthropoda
+2032320008	Host-associated	Animal host	N/A	Host, Arthropoda
+2032320009	Host-associated	Animal host	N/A	Host, Arthropoda
+2035918000	Host-associated	Animal host	N/A	Host, Arthropoda
+2035918001	Host-associated	Animal host	N/A	Plasmids
+2035918002	Host-associated	Animal host	N/A	Plasmids
+2035918003	Host-associated	Animal host	N/A	Host, Arthropoda
+2035918004	Terrestrial	Soil	Other	Multiple soil sites (FACE) in the US
+2040502004	Aquatic	Saline waters	Coastal waters	Antarctic, Marine
+2040502005	Aquatic	Saline waters	Coastal waters	Antarctic, Marine
+2043231000	Host-associated	Animal host	N/A	Host, Arthropoda
+2044078000	Terrestrial	Soil	Agricultural	N/A
+2044078001	Terrestrial	Plants	Rhizosphere	N/A
+2044078002	Terrestrial	Plants	Rhizosphere	N/A
+2044078003	Terrestrial	Soil	Agricultural	N/A
+2044078004	Terrestrial	Plants	Rhizosphere	N/A
+2044078005	Terrestrial	Soil	Agricultural	N/A
+2044078006	Host-associated	Animal host	N/A	Host, Arthropoda
+2044078007	Host-associated	Animal host	N/A	Host, Arthropoda
+2044078011	Host-associated	Animal host	N/A	Host, Arthropoda
+2053563014	Thermal	Hydrothermal	N/A	Hot spring
+2077657006	Aquatic	Freshwaters	Rivers	N/A
+2077657007	Aquatic	Freshwaters	Rivers	N/A
+2081372008	Aquatic	Freshwaters	Wastewaters	N/A

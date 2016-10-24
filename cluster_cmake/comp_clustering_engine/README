@@ -1,0 +1,13 @@
+ swig -c++ -perl5 compclusteringengine.i
+
+g++ `perl -MExtUtils::Embed -e ccopts` -c -pipe -g -Wall -W -D_REENTRANT -fPIC -DQT_GUI_LIB -DQT_CORE_LIB -DQT_SHARED -I/usr/share/qt4/mkspecs/linux-g++ -I../chart -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4 -I. -I../chart -I. -c ./compclusteringengine.cpp ./compclusteringengine_wrap.cxx
+
+g++ -shared -Wl,-soname,libcompclusteringengine.so.1 -o libcompclusteringengine.so.1.0.0 compclusteringengine.o compclusteringengine_wrap.o -L/usr/lib -lQtGui -lQtCore -lpthread 
+
+
+
+perl
+use compclusteringengine;
+my $cola = compclusteringengine::CompClusteringEngine->new;  
+print $cola->getErrorString;
+
